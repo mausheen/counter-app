@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.body{
+    background-color: black;
+    color: #ffffff;
+   
+
+}
+#container{
+   margin-top: 100px;
+   margin-left: 100px;
+   
+}
+#hedding{
+    color: #ffffff;
+    font-size:40px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#cur{
+    margin-top: 37px;
+    text-decoration: underline;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.new-ele{
+    margin-top: 20px;
+    text-decoration: none;
+    color:red;
+    text-decoration: none;
+}
+
+#cur-count{
+   font-weight:0.5;
+}
+
+.btn{
+    padding: 8px 15px;
+    margin-top: 28px;
+    margin-left: 8px;
+}
